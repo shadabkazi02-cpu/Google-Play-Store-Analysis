@@ -1,4 +1,4 @@
-# 📱 Google Play Store Strategic Analysis
+#  Google Play Store Strategic Analysis
 <p align="center"><img width="974" height="547" alt="image" src="https://github.com/user-attachments/assets/28715143-4116-41d9-bbea-5e760739f9b4" /> </p>
 
 ## 📊 Project Overview
